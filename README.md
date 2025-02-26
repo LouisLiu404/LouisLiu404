@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**LouisLiu404/LouisLiu404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Liu Yike**, an undergraduate student studying **Computing Science** at the **University of Glasgow**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🎓 **Education**: Computing Science @ University of Glasgow  
+- 💻 **Current courses**: Object Oriented Programming, Web Application Development, Algorithms and Data Structure.
+
+---
+
+## ⚡ Skills
+
+- **Languages**: Python, Java
+- **Tools & Technologies**: Git
+- **Other Skills**: Problem-solving, teamwork 
+
+---
